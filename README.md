@@ -202,7 +202,7 @@ Want to use the key in other file config ?
 	),
 ```
 
-(Screenshot)[http://i.imgur.com/qm6YUMf.png]
+[Screenshot](http://i.imgur.com/qm6YUMf.png)
 
 ## lbConfig Module
 
