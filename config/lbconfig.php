@@ -3,6 +3,5 @@
 return array(
 	'separator' => '>',
 	'configs' => array(
-
 	),
 );

@@ -20,6 +20,8 @@ $configs = \Config::get('lbconfig.configs');
 // Fetch all config
 foreach($configs as $config)
 {
+	if (empty($config)) continue;
+	
 	$file = $config['file'];
 
 	// Load config file
